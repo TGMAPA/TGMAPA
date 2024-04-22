@@ -14,7 +14,7 @@ Soy estudiante de Ingenieria en Tecnologías Computacionales en el Instituto Tec
 Y alguna más...
 
 ## ¿Dónde encontrarme? 📫:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://devexperto.com/linkedin](https://www.linkedin.com/in/miguel-%C3%A1ngel-p%C3%A9rez-%C3%A1vila-4b808b266/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Perez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-%C3%A1ngel-p%C3%A9rez-%C3%A1vila-4b808b266/)
 [![Instagram](https://img.shields.io/badge/Instagram-@tgmapa-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/tgmapa)
 
 ## Contáctame 💬:
